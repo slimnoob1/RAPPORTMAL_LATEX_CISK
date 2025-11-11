@@ -7,3 +7,5 @@ Samt at det kreves MikTex-console, og Strawberry Perl for at det skal kunne kjø
 For Linux brukere: sudo pacman -S biber, sudo pacman -S texlive-langextra for å installere siteringspakken, og norsk språk. Generelt så er det bare å følge feilmeldingen og installere det den ber om, men disse to er pakker jeg måtte ha.
 
 Se på YT for annen assistanse :)
+
+Creds: Morten Tverberg, V78 for inspirasjon
