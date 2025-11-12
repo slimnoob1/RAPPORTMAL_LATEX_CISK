@@ -61,9 +61,11 @@
 \clearpage
 
 \appendix
-\addcontentsline{toc}{section}{Vedlegg}
-\renewcommand{\thesection}{\Alph{section}}
+\renewcommand{\thesection}{\Alph{section}} % bare A, B, C
 \renewcommand{\thesubsection}{\Alph{section}.\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\Alph{section}.\arabic{subsection}.\arabic{subsubsection}}
+%\addcontentsline{toc}{section}{Vedlegg}    % én felles linje i innholdsfortegnelsen
+
 \input{sections/vedlegg}
 \clearpage
 
