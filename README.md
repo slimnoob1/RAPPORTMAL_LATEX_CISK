@@ -8,4 +8,4 @@ For Linux brukere: sudo pacman -S biber, sudo pacman -S texlive-langextra for å
 
 Se på YT for annen assistanse :)
 
-Creds: Morten Tverberg, V78 for inspirasjon
+Laget av: AUGUST MOLANDER, V78
